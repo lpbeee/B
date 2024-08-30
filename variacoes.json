@@ -1,4 +1,8 @@
 {
-  "variacao": ["QUADRO SLIM"],
-  "esconder_cor": ["Branco"]
+  "variacoes": [
+    {"nome": "QUADRO FILETE", "cor": "Branco"},
+    {"nome": "QUADRO CANVAS", "cor": "Preto"},
+    {"nome": "QUADRO PREMIUM", "cor": "Marrom escuro, Marrom claro"},
+    {"nome": "QUADRO SLIM", "cor": "Madeira"}
+  ]
 }
